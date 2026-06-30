@@ -40,6 +40,11 @@ for sniffing and analysing vehicle network traffic.
 | Phase 2 | ISO 21434 / TARA | ⏳ Upcoming |
 | Phase 3 | Advanced tooling & pentesting | ⏳ Upcoming |
 | Phase 4 | Applications & interviews | ⏳ Upcoming |
+| **Certs** | CompTIA Security+ | 🔄 In progress |
+| **Certs** | CCNA | ⏳ Upcoming |
+| **Certs** | eJPT | ⏳ Upcoming |
+| **Certs** | ISO 21434 training | ⏳ Upcoming |
+| **Certs** | PNPT | ⏳ Upcoming |
 
 ---
 
